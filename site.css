@@ -1,0 +1,57 @@
+.OneP {
+    margin-bottom: 50px;
+    border: black solid 2px;
+    padding: 50px;
+    background: lightcyan;
+    overflow: auto;
+    height: 20px;
+    width: 290px;
+}
+
+
+.OneDiv {
+    background: pink;
+    padding: 20px;
+    border-radius: 30px;
+    border: darkred solid 2px;
+}
+
+.butt {
+    height: 40px;
+    border-radius: 10px;
+}
+
+.inp {
+    width: 70%;
+    margin-left: 25px;
+    background: beige;
+    padding: 8px;
+    border-radius: 20px;
+    border: pink dashed 2px;
+}
+
+.lightt {
+    background: red;
+    border-radius: 100px;
+    height: 10px;
+    border: red solid 1px;
+}
+
+.green {
+    background: green;
+}
+
+.ent {
+    background: greenyellow;
+    border: green solid 2px;
+    padding: 5px;
+    border-radius: 0px 30px 30px 30px
+}
+
+.manybutt {
+    background: crimson;
+    color: white;
+    border-radius: 20px;
+    border: honeydew solid 1px;
+    padding: 8px;
+}
